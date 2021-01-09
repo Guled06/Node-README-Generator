@@ -1,6 +1,6 @@
 
   
-  # The Best README.md Generator Ever!
+  # The Coolest ReadMe Ever!
 
   # Table of Contents
 
@@ -15,19 +15,19 @@
 
   ## Description:
 
-    This project was designed using Node.js. This project allows the user to generate a README.md file/document in a professional manner, swiftly.
+    This Readme project was designed using Node.js in the Command Line.
   
   ## Installation:
 
-    This project requires the user to install Node.js in his/her Command Line.
+    The user must install Node.js in his/her Command Line prior to using this application.
 
   ## Usage:
 
-    This project can be used by any user that has installed Node.js. Once Node.js is installed, this application can be used. 
+    This application allows the user to create a Readme document in a professional manner, swiftly.
 
   ## Contributon:
 
-    Only me (with the help of UCSD Trilogy Coding Bootcamp, my instructor and my tutor)
+    Myself, with the help of UCSD Trilogy Coding Bootcamp.
 
   ## Test:
 
@@ -35,7 +35,7 @@
   
   ## Credits:
 
-    So far, just me!
+    So far, I'd like to take credit with all due respect! :) 
 
   ## License:
 

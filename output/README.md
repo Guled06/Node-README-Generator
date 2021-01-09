@@ -1,6 +1,6 @@
 
   
-  # The Coolest ReadMe Ever!
+  # The Coolest README.md File Ever!
 
   # Table of Contents
 
@@ -15,19 +15,19 @@
 
   ## Description:
 
-    This Readme project was designed using Node.js in the Command Line.
+    This project was designed using back-end coding. I used Node.js which allowed me to execute the commands. 
   
   ## Installation:
 
-    The user must install Node.js in his/her Command Line prior to using this application.
+    The user must install Node.js in his/her Command-Line (Terminal). Once the application is installed, this project can be executed. 
 
   ## Usage:
 
-    This application allows the user to create a Readme document in a professional manner, swiftly.
+    This application allows the user to develop or create a README.md document/file in a professional manner, swiftly. All it takes is for the user to answer the questions that is being prompted.
 
   ## Contributon:
 
-    Myself, with the help of UCSD Trilogy Coding Bootcamp.
+    Guled (with the help of my instructor and tutor at UCSD Trilogy Coding Bootcamp)
 
   ## Test:
 
@@ -35,7 +35,7 @@
   
   ## Credits:
 
-    So far, I'd like to take credit with all due respect! :) 
+    So far, just me.
 
   ## License:
 
@@ -43,10 +43,12 @@
     (https://opensource.org/licenses/MIT)
   
   ## Questions:
+
       For questions about this Readme Generator, you can go to my Github page at the following link:
 
-      [Github Profile](https://github.com/Guled06)
+        Github: https://github.com/Guled06
 
-      For additional questions, please reach me at my email: akindnesstoremember@gmail.com.
+      For additional questions, please reach me at my email:
+
+        Email: akindnesstoremember@gmail.com
   
-

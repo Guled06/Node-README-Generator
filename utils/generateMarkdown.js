@@ -103,13 +103,15 @@ function generateMarkdown(data) {
     ${renderLicenseLink(data.license[0])}
   
   ## Questions:
+
       For questions about this Readme Generator, you can go to my Github page at the following link:
 
-      [Github Profile](https://github.com/${data.username})
+        Github: https://github.com/${data.username}
 
-      For additional questions, please reach me at my email: ${data.email}.
+      For additional questions, please reach me at my email:
+
+        Email: ${data.email}
   
-
 `;
 }
 

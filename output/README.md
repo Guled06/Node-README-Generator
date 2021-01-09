@@ -1,6 +1,6 @@
 
   
-  # The Coolest README.md File Ever!
+  # The Best Readme Document Ever!
 
   # Table of Contents
 
@@ -15,19 +15,19 @@
 
   ## Description:
 
-    This project was designed using back-end coding. I used Node.js which allowed me to execute the commands. 
+    This project was designed using Node.js.
   
   ## Installation:
 
-    The user must install Node.js in his/her Command-Line (Terminal). Once the application is installed, this project can be executed. 
+    This project requires the user to install Node.js in his Command-Line/Terminal prior to using the application.
 
   ## Usage:
 
-    This application allows the user to develop or create a README.md document/file in a professional manner, swiftly. All it takes is for the user to answer the questions that is being prompted.
+    This application allows the user to create a Readme document in a professional manner, swiftly.
 
   ## Contributon:
 
-    Guled (with the help of my instructor and tutor at UCSD Trilogy Coding Bootcamp)
+    Guled.
 
   ## Test:
 
@@ -35,7 +35,7 @@
   
   ## Credits:
 
-    So far, just me.
+    Guled.
 
   ## License:
 

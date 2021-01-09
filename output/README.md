@@ -1,6 +1,6 @@
 
   
-  # The Best Readme Document Ever!
+  # The Best README.md Document Ever!
 
   # Table of Contents
 
@@ -15,19 +15,22 @@
 
   ## Description:
 
+   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
+   
+
     This project was designed using Node.js.
   
   ## Installation:
 
-    This project requires the user to install Node.js in his Command-Line/Terminal prior to using the application.
+    The user must install Node.js, fs and inquirer to run this application.
 
   ## Usage:
 
-    This application allows the user to create a Readme document in a professional manner, swiftly.
+    This application was designed to be used to create a professional README.md document in a very swift manner.
 
   ## Contributon:
 
-    Guled.
+    Myself, with the help of UCSD Trilogy Coding Bootcamp instructor and tutor.
 
   ## Test:
 
@@ -35,20 +38,19 @@
   
   ## Credits:
 
-    Guled.
+    Myself, my instructor and my tutor.
 
   ## License:
 
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-    (https://opensource.org/licenses/MIT)
+    For more information about the license, please click on the link below:
+
+  - [License](https://opensource.org/licenses/MIT)
   
   ## Questions:
 
       For questions about this Readme Generator, you can go to my Github page at the following link:
 
-        Github: https://github.com/Guled06
+  - [GitHub Profile](https://github.com/Guled06)
 
-      For additional questions, please reach me at my email:
-
-        Email: akindnesstoremember@gmail.com
+  For additional questions, please reach me at my email at: akindnesstoremember@gmail.com
   

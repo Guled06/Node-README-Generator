@@ -40,7 +40,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
     {
       type: 'checkbox',
       message: 'Please select a license:',
-      choices: ['Mozilla', 'IBM', 'Apache', 'MIT', 'Perl', 'ISC', 'No License'],
+      choices: ['Mozilla', 'IBM', 'Apache', 'MIT', 'Perl', 'ISC'],
       name: 'license'
     },
     {

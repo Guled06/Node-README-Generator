@@ -1,6 +1,6 @@
 
   
-  # b
+  # The Best README.md Generator Ever!
 
   # Table of Contents
 
@@ -15,38 +15,38 @@
 
   ## Description:
 
-    b
+    This project was designed using Node.js. This project allows the user to generate a README.md file/document in a professional manner, swiftly.
   
   ## Installation:
 
-    b
+    This project requires the user to install Node.js in his/her Command Line.
 
   ## Usage:
 
-    b
+    This project can be used by any user that has installed Node.js. Once Node.js is installed, this application can be used. 
 
   ## Contributon:
 
-    b
+    Only me (with the help of UCSD Trilogy Coding Bootcamp, my instructor and my tutor)
 
   ## Test:
 
-    bbbbb
+    None at this time.
   
   ## Credits:
 
-    b
+    So far, just me!
 
   ## License:
 
-    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
-    (https://opensource.org/licenses/Apache-2.0)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+    (https://opensource.org/licenses/MIT)
   
   ## Questions:
       For questions about this Readme Generator, you can go to my Github page at the following link:
 
-      [Github Profile](https://github.com/bb)
+      [Github Profile](https://github.com/Guled06)
 
-      For additional questions, please reach me at my email: bb.
+      For additional questions, please reach me at my email: akindnesstoremember@gmail.com.
   
 

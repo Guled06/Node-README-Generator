@@ -55,6 +55,8 @@ function generateMarkdown(data) {
 
   - [GitHub Profile](https://github.com/${data.username})
 
+  - [A Walkthrough Video Demonstration Link](https://drive.google.com/file/d/1wJjUR6D7djWYVI9G57lHYJlWe3p4byvO/view)
+
   For additional questions, please reach me at my email at: ${data.email}
   
 `;

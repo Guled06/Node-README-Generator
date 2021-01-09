@@ -18,19 +18,19 @@
    ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
    
 
-    This project was designed using Node.js.
+    This project was designed by using Node.js and inquirer.
   
   ## Installation:
 
-    The user must install Node.js, fs and inquirer to run this application.
+    The user must install Node.js and inquirer in order to run this application in his/her computer.
 
   ## Usage:
 
-    This application was designed to be used to create a professional README.md document in a very swift manner.
+    This application is designed to allow the user to generate a readme document swiftly.
 
   ## Contributon:
 
-    Myself, with the help of UCSD Trilogy Coding Bootcamp instructor and tutor.
+    Myself with the help of the UCSD Trilogy Coding Bootcamp.
 
   ## Test:
 
@@ -38,7 +38,7 @@
   
   ## Credits:
 
-    Myself, my instructor and my tutor.
+    Myself, My Instructor and My Tutor.
 
   ## License:
 

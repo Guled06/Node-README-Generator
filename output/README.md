@@ -1,6 +1,6 @@
 
   
-  # ls
+  # The Best ReadME.md Document Ever!
 
   # Table of Contents
 
@@ -15,44 +15,44 @@
 
   ## Description:
 
-   ![License](https://img.shields.io/badge/License-Mozilla-blue.svg "License Badge")
+   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
    
 
-    a
+    This project was designed using Node.js and inquirer.
   
   ## Installation:
 
-    a
+    The user must install Node.js and inquirer prior to running this application in his/her computer.
 
   ## Usage:
 
-    a
+    This application was designed to let the user generate a professional readme document swiftly.
 
   ## Contributon:
 
-    a
+    Myself and UCSD Trilogy Coding Bootcamp. 
 
   ## Test:
 
-    a
+    None at this time.
   
   ## Credits:
 
-    a
+    Myself, my instructor and my tutor. Thank you. 
 
   ## License:
 
     For more information about the license, please click on the link below:
 
-  - [License](https://opensource.org/licenses/Mozilla)
+  - [License](https://opensource.org/licenses/MIT)
   
   ## Questions:
 
       For questions about this Readme Generator, you can go to my Github page at the following link:
 
-  - [GitHub Profile](https://github.com/a)
+  - [GitHub Profile](https://github.com/Guled06)
 
   - [A Walkthrough Video Demonstration Link](https://drive.google.com/file/d/1wJjUR6D7djWYVI9G57lHYJlWe3p4byvO/view)
 
-  For additional questions, please reach me at my email at: a
+  For additional questions, please reach me at my email at: akindnesstoremember@gmail.com
   
